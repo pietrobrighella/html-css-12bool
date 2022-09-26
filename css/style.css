@@ -22,6 +22,10 @@ div.container {
     padding: 10px;
 }
 
+.nmb {
+    display: none;
+}
+
 @media screen and (min-width: 768px) {
     .box-choc {
         background-color: brown;
@@ -31,5 +35,9 @@ div.container {
 @media screen and (min-width: 992px) {
     .box-choc {
         background-color: goldenrod;
+    }
+
+    .nmb {
+        display: inline-block;
     }
 }
