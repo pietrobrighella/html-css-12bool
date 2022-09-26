@@ -1,0 +1,23 @@
+.box-blue {
+    border: 1px solid white;
+    background-color: cadetblue;
+    min-height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.box-choc {
+    border: 1px solid cadetblue;
+    background-color: chocolate;
+    min-height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+div.container {
+    margin-bottom: 20px;
+}
+
+.pad-10 {
+    padding: 10px;
+}
