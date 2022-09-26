@@ -28,7 +28,7 @@ div.container {
     }
 }
 
-@media screen and (min-width: 960px) {
+@media screen and (min-width: 992px) {
     .box-choc {
         background-color: goldenrod;
     }
