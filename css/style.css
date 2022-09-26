@@ -21,3 +21,15 @@ div.container {
 .pad-10 {
     padding: 10px;
 }
+
+@media screen and (min-width: 768px) {
+    .box-choc {
+        background-color: brown;
+    }
+}
+
+@media screen and (min-width: 960px) {
+    .box-choc {
+        background-color: goldenrod;
+    }
+}
